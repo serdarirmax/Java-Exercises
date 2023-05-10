@@ -2,8 +2,8 @@ package yenibaslayanlaricin;
 
 public class _09IslemOnceligi {
     public static void main(String[] args) {
-        //Kitap, laptop ve mouse fiyati icin long data tipinde degiskenler olusturunuz.
-        //Konsolda 2 kitap, 4 mouse ve 2 laptop icin toplam fiyatini yazdiriniz.
+        //Kitap, laptop ve mouse fiyati icin float data tipinde degiskenler olusturunuz.
+        //Konsolda 3 kitap, 1 mouse ve 2 laptop icin toplam fiyatini yazdiriniz.
 
 
 
@@ -23,11 +23,11 @@ public class _09IslemOnceligi {
 
 
 
-        long bookprice = 55L;
-        long laptopprice = 8400L;
-        long mouseprice = 600L;
+        float bookprice = 55.90F;
+        float laptopprice = 8400.25F;
+        float mouseprice = 605.99F;
 
-        System.out.println("Total Price : "+(bookprice*2)+(laptopprice*2)+(mouseprice*4)+" TL.");
+        System.out.println("Total Price : "+(bookprice*3)+(laptopprice*2)+(mouseprice*1)+" TL.");
 
 
     }
