@@ -1,13 +1,12 @@
-package yapilanegzersizler;
+package if_else_exercises;
 
 import java.util.Scanner;
 
-public class EndWith01 {
+public class _03SifreDogrulama {
     public static void main(String[] args) {
         // Kullanicidan bir @gmail adresi girmesin isteyin
         // Girilen Mail adresi dogru ise mail onaylandi
         // Yanlis ise Gecerli mail adresi girin uyarısı veriniz
-
 
 
 

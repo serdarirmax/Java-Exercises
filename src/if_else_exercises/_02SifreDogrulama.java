@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class _02SifreDogrulama {
     public static void main(String[] args) {
-
+        // Kullanicidan bir sifre girmesin isteyin
+        // Girilen sifre "JavaLearner" ise mail onaylandi
+        // Yanlis ise tekrar deneyiniz uyarısı veriniz
 
 
 
