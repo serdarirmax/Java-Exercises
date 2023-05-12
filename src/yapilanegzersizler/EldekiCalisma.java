@@ -15,7 +15,7 @@ public class EldekiCalisma {
         } else if (!input.endsWith("@gmail.com")) {
             System.out.println("mailde yazim hatasi var");
         } else if (input.startsWith("@gmail.com")) {
-            System.out.println("Eksik giri� yaptiniz");
+            System.out.println("Eksik giris yaptiniz");
         } else {
             System.out.println("Sisteme giris yapildi");
         }
