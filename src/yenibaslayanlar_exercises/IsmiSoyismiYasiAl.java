@@ -2,13 +2,13 @@ package yenibaslayanlar_exercises;
 
 import java.util.Scanner;
 
-public class _15ScannerOrnek02 {
+public class IsmiSoyismiYasiAl {
     public static void main(String[] args) {
 
         // SORU: Kullanicidan ismini, soyismini ve yasini alip, asagidaki formmatta yazdirin.
-        // Isminiz : John
-        // Soyisminiz : Doe
-        // Yasiniz : 44
+        // Isminiz    : Faruk
+        // Soyisminiz : Doruk
+        // Yasiniz    : 44
         // Kaydiniz basariyla tamamlanmistir.
 
 

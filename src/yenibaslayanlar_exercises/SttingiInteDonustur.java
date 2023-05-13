@@ -1,6 +1,6 @@
 package yenibaslayanlar_exercises;
 
-public class _13SttingiInteDonustur {
+public class SttingiInteDonustur {
     public static void main(String[] args) {
         //Data tipi String olan “43” degerini byte data tipine donusturmek icin bir kod yaziniz ve
         //yine data tipi String olan “5651” degerini short data tipine donusturup konsolda iki

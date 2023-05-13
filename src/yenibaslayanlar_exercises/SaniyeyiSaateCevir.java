@@ -2,7 +2,7 @@ package yenibaslayanlar_exercises;
 
 import java.util.Scanner;
 
-public class _29SnSaatCevir {
+public class SaniyeyiSaateCevir {
     public static void main(String[] args) {
         /*
          * Saniyeyi saat, dk ve saniyeye çeviren bir program yazınız.
@@ -16,12 +16,25 @@ public class _29SnSaatCevir {
          *
          * 1 saat = 3600 saniye
          * 1 dk   = 60 saniye
-         *
          */
-
-
         Scanner scanner =new Scanner(System.in);
         System.out.println("Lutfen saate cevirmek istediginiz saniyeyi giriniz");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         int input = scanner.nextInt();
         int sn = 3600;
         double saat = input/sn;

@@ -1,6 +1,6 @@
 package yenibaslayanlar_exercises;
 
-public class _07_02Concatenation {
+public class CharConcatenation {
     public static void main(String[] args) {
         // SELIM isminin icerisinde bulunan harfleri kullanmadan yazdiriniz
     /* ASCİİ table kullanınız

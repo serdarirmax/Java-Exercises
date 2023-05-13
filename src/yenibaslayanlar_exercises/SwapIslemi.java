@@ -2,7 +2,7 @@ package yenibaslayanlar_exercises;
 
 import java.util.Scanner;
 
-public class _10SwapIslemleri {
+public class SwapIslemi {
     public static void main(String[] args) {
         // Kullanicidan 2 sayi aliniz ve bunlarin degerlerinin yerlerini degistirmek icin bir kod yaziniz.
 

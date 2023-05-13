@@ -2,7 +2,7 @@ package yenibaslayanlar_exercises;
 
 import java.util.Scanner;
 
-public class _16_ScannerOrnek03 {
+public class KelimeAlYazdir {
     public static void main(String[] args) {
 
         /*

@@ -2,7 +2,7 @@ package yenibaslayanlar_exercises;
 
 import java.util.Scanner;
 
-public class _28OgrenciNotHesap {
+public class OgrenciNotHesap {
     public static void main(String[] args) {
         /*
 	 * Kullanicidan ara notu, final notunu ve proje notunu girmesini isteyin

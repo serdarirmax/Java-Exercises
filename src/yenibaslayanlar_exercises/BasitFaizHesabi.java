@@ -1,6 +1,6 @@
 package yenibaslayanlar_exercises;
 
-public class _04BasitFaizHesabi {
+public class BasitFaizHesabi {
     public static void main(String[] args) {
         //Basit faizi bulmak icin bir kod yaziniz. Not: Basit faiz formulu = anapara * oran * yilDegeri /100
 

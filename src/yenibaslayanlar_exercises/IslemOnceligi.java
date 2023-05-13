@@ -1,6 +1,6 @@
 package yenibaslayanlar_exercises;
 
-public class _09IslemOnceligi {
+public class IslemOnceligi {
     public static void main(String[] args) {
         //Kitap, laptop ve mouse fiyati icin float data tipinde degiskenler olusturunuz.
         //Konsolda 3 kitap, 1 mouse ve 2 laptop icin toplam fiyatini yazdiriniz.

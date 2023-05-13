@@ -1,6 +1,6 @@
 package yenibaslayanlar_exercises;
 
-public class _12WrapperClasses {
+public class MinimumMaximumDeger {
     public static void main(String[] args) {
 
         //Byte data tipinin minimum degeri ile short data tipinin maksimum degerinin toplamini

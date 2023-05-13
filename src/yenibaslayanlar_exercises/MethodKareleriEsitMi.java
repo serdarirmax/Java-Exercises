@@ -2,7 +2,7 @@ package yenibaslayanlar_exercises;
 
 import java.util.Scanner;
 
-public class _23MethodKareleriEsitMi {
+public class MethodKareleriEsitMi {
     public static void main(String[] args) {
         //kullanicidan aldiginiz 2 sayinin karelerinin birbirine esit olup olmadigini kontrol eden bir method yaziniz
         //yani alinan iki sayinin kareleri esit ise true, degil ise false yazdirin.

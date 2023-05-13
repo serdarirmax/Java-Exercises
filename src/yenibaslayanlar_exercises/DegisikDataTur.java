@@ -1,6 +1,6 @@
 package yenibaslayanlar_exercises;
 
-public class _02DegisikDataTur {
+public class DegisikDataTur {
     public static void main(String[] args) {
         //Herhangi 3 öğe icin float, long ve integer data tipinde degiskenler olusturunuz.
         // Bu degiskenlerin degerlerinin carpimini konsolda yazdiriniz.

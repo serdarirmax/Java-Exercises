@@ -2,7 +2,7 @@ package yenibaslayanlar_exercises;
 
 import java.util.Scanner;
 
-public class _22MethodFahrenheitToCelsius {
+public class MethodFahrenheitToCelsius {
     public static void main(String[] args) {
         // Fahrenheit değeri, Celsius değere çeviren method yazınız.
         // formül: c = (f-32)/1.8

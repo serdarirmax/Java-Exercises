@@ -2,7 +2,7 @@ package yenibaslayanlar_exercises;
 
 import java.util.Scanner;
 
-public class _04_03GalonToLitre {
+public class GalonuLitreyeCevir {
     public static void main(String[] args) {
         double litre=3.785;
         // Kullanicidan litreye cevirmek istedigi sayiyi galon cinsinden aliniz ve

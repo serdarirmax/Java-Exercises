@@ -2,7 +2,7 @@ package yenibaslayanlar_exercises;
 
 import java.util.Scanner;
 
-public class _04_1RakamlarinOrt01 {
+public class RakamlarinOrtalamasi {
     public static void main(String[] args) {
         /*
             Kullanicidan aldiginiz 3 tane sayinin ortalamasini bulan kodu yaziniz

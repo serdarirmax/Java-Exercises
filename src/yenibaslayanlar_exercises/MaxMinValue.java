@@ -1,6 +1,6 @@
 package yenibaslayanlar_exercises;
 
-public class _06MaxMinValue {
+public class MaxMinValue {
     public static void main(String[] args) {
 
         //Ornek 1: short data type inin minimum ve maximum degerlerini kod yazarak bulunuz

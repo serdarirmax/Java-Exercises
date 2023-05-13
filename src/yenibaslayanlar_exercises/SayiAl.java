@@ -1,8 +1,6 @@
 package yenibaslayanlar_exercises;
-
 import java.util.Scanner;
-
-public class _14ScannerOrnek01 {
+public class SayiAl {
     public static void main(String[] args) {
         // SORU: Kullanicidan bir double, bir de int sayi alip bunlarin toplamini ve carpimini yazdirin.
 

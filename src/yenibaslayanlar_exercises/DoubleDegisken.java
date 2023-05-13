@@ -1,6 +1,6 @@
 package yenibaslayanlar_exercises;
 
-public class _01DoubleDegisken {
+public class DoubleDegisken {
     public static void main(String[] args) {
         // Herhangi 3 öğenin fiyatlari icin double data tipinde degiskenler olusturunuz.
         // Fiyatlarin toplamini konsola yazdiriniz.
