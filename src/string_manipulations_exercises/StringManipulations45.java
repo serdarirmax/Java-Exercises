@@ -31,6 +31,8 @@ public class StringManipulations45 {
 
 
 
+
+
         String pass = scanner.next();
         boolean ilkBasamak = pass.length()>=8;
         boolean ikinciBasamak = !pass.contains(" ");
