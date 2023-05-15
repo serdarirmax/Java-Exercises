@@ -83,14 +83,16 @@ public class _1StringManipulationsNOTLAR {
             indexOf() methodu olmayan characterler icin kullanilirsa her zaman -1 return eder
          ii) int doner.
 
-        14) isBlank(): Stringin içinin bombos (space dahil) olup olmadiginin bilgisini verir
-         ii) boolean doner.
-
-        15) isEmpty(): Stringin içinin space hariç boş olup olmadiginin bilgisini verir
-         ii) boolean doner.
-
-        15)lastIndexOf('e') 'e' karakterinin stringin sondan baslayarak ilk olarak kacinci indexinde oldugunu bulmamiza yarar.
+        14)lastIndexOf('e') 'e' karakterinin stringin sondan baslayarak ilk olarak kacinci indexinde oldugunu bulmamiza yarar.
          ii) int doner.
+
+        15) isBlank(): Stringin içinin bombos (space dahil) olup olmadiginin bilgisini verir
+         ii) boolean doner.
+
+        16) isEmpty(): Stringin içinin space hariç boş olup olmadiginin bilgisini verir
+         ii) boolean doner.
+
+
 
 
 

@@ -34,7 +34,7 @@ public class MutlakDeger {
         int sayi = scan.nextInt();
 
         if (sayi<0){
-            System.out.println(-sayi);
+            System.out.println(sayi*-1);
         } else {
             System.out.println(sayi);
         }
