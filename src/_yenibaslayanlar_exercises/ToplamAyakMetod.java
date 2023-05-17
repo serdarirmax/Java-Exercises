@@ -1,13 +1,25 @@
-//tavuk, inek, koyun,kopek *S�ras�yla 
-//Tum hayvanlarin toplam bacak sayisini donduren bir fonksiyon yaziniz.
+package _yenibaslayanlar_exercises;
+public class ToplamAyakMetod {
+	//tavuk, inek, koyun,kopek sirasiyla tum hayvanlarin toplam bacak sayisini donduren bir fonksiyon yaziniz.
 
 
 
 
-package duzenlenecekler;
 
-public class Main033 {
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	public static int toplamAyak(int t,int i,int k,int p) {
 		return (t*2)+(i*4)+(k*4)+(p*4);
 	}

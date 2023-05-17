@@ -1,8 +1,6 @@
-package duzenlenecekler;
-
+package for_while_exercises;
 import java.util.Scanner;
-
-public class SifreKontrol4Asamali {
+public class SifreKontrolMetod {
     // Soru 4 : Kullanicidan bir sifre isteyip, asagidaki sartlari kontrol edin
     // ve kullaniciya duzeltmesi gereken tum eksikleri soyleyin,
     // eger tum sartlari saglarsa, "sifre basariyla kaydedildi" yazdirin
@@ -18,6 +16,30 @@ public class SifreKontrol4Asamali {
 
     public static void main(String[] args) {
         Scanner scan =new Scanner(System.in);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         String sifre="";
         boolean tekrarSifreIste = true;
 

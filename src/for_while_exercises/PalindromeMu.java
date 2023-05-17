@@ -1,8 +1,31 @@
-package duzenlenecekler;
+package for_while_exercises;
 
-public class PalindromeMethod {
+public class PalindromeMu {
     public static void main(String[] args) {
         String input = "ey edip adanada Pide ye";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         String tersInput = "";
 
         for (int i = input.length()-1; i >=0 ; i--) {

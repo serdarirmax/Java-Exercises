@@ -1,10 +1,35 @@
-//Asal mi degil mi ?
-package duzenlenecekler;
 
-
-public class AsalMiDegilMi {
+package for_while_exercises;
+public class AsalMiDegilMiMetod {
 	
 	public static boolean asalMi(int sayi) {
+
+		// Girilen sayinin Asal olup olmadiğini donduren bir metod olusturunuz.
+		//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		if(sayi==1) {
 			return false;
 		}
@@ -16,7 +41,7 @@ public class AsalMiDegilMi {
 		return true;
 	}
 	public static void main(String[] args) {
-		System.out.println(asalMi(1));
+		System.out.println(asalMi(23));
 
 	}
 

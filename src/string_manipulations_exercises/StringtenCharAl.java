@@ -1,16 +1,12 @@
 package string_manipulations_exercises;
-
 public class StringtenCharAl {
     public static void main(String[] args) {
+        //    3 char değişkeni oluşturun ve ardından kullanarak konsolda A L I yazdırın.
+        //    String  alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-        /*
-     * 3 char değişkeni oluşturun ve ardından kullanarak konsolda A L I yazdırın
-     *  String  alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-     */
 
 
         String alphabet = "ABCDEFGHIJKLMNOPRSTUVYZ";
-
 
 
 
