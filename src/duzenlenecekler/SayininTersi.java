@@ -1,7 +1,7 @@
 // girilen 3 basamakli sayinin tersini yazdiran fonksiyon
 package duzenlenecekler;
 
-public class Main034 {
+public class SayininTersi {
 	public static void tersiniAl(int sayi) {
 		int birler=(sayi%10)*100;
 		int onlar=((sayi/10)%10)*10;

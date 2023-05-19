@@ -1,4 +1,4 @@
-package duzenlenecekler;
+package string_manipulations_exercises;
 import java.util.Scanner;
 public class SifreDogrulama {
     public static void main(String[] args) {

@@ -31,7 +31,7 @@ public class TasKagitMakas {
 				System.out.println("Pc secimi: Tas\nBerabere.");
 				System.out.println("*****");
 			}else if(secim==1 && pcsecim==2) {
-				System.out.println("Pc secimi: Kag�t\nKaybettiniz.");
+				System.out.println("Pc secimi: Kagit\nKaybettiniz.");
 				System.out.println("*****");
 				pcScore+=1;
 			}else if(secim==1 && pcsecim==3) {
@@ -43,7 +43,7 @@ public class TasKagitMakas {
 				System.out.println("*****");
 				yourScore+=1;
 			}else if(secim==2 && pcsecim==2) {
-				System.out.println("Pc secimi: Kag�t\nBerabere.");
+				System.out.println("Pc secimi: Kagit\nBerabere.");
 				System.out.println("*****");
 			}else if(secim==2 && pcsecim==3) {
 				System.out.println("Pc secimi: Makas\nKaybettiniz.");
@@ -54,7 +54,7 @@ public class TasKagitMakas {
 				System.out.println("*****");
 				pcScore+=1;
 			}else if(secim==3 && pcsecim==2) {
-				System.out.println("Pc secimi: Kag�t\nKazandiniz.");
+				System.out.println("Pc secimi: Kagit\nKazandiniz.");
 				System.out.println("*****");
 				yourScore+=1;
 			}else if(secim==3 && pcsecim==3) {
