@@ -1,6 +1,6 @@
-package if_else_exercises;
+package ternary_exercises;
 import java.util.Scanner;
-public class Ternary01 {
+public class BuyukKucukSayilar {
     public static void main(String[] args) {
         // Kullanicidan iki sayi aliniz, "buyuk olmayan" (kucuk veya esit olan) sayiyi yazdiriniz
 

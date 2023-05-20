@@ -1,5 +1,4 @@
 package if_else_exercises;
-
 public class Ucgen {
     public static void main(String[] args) {
         /*
@@ -9,8 +8,40 @@ public class Ucgen {
         c) a ve b koşulları sağlanmıyorsa "Çeşit Kenar Üçgen"
          */
 
-        int a = 5;
-        int b = 3;
+        int a = 8;
+        int b = 6;
         int c = 4;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        if (a == b && b == c){
+            System.out.println("Eskenar ucgen");
+        } else if ((a == b && a != c)||(b == c && b != a)||(c == a && c !=b)) {
+            System.out.println("ikizkenar ucgen");
+        } else if (a != b || b != c|| a != c) {
+            System.out.println("Cesit kenar ucgen");
+        }else {
+            System.out.println("girilen verileri kontrol edip tekrar giriniz.");
+        }
     }
 }

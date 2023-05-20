@@ -1,13 +1,47 @@
 package if_else_exercises;
-
 public class Yuvarlama {
     public static void main(String[] args) {
-        /*  Aşağıdaki seçenekler doğrultusunda gereken kodu yazınız.
-            a) Son basamak 5 ‘e eşit ve 5 den büyükse, yuvarlama işlemi: “Son basamağı bir üst ondalığa yuvarla”
-            b) Son basamak 5 den küçükse, yuvarlama işlemi: “Son basamağı bir alt ondalığa yuvarla”
-         */
 
-        int i = 124;
+            // Verilen bir sayida, Son basamak 5 ‘e esit ve 5 den buyukse: “Son basamagi bir ust ondaliga yuvarla”
+            // Son basamak 5 den kucukse: “Son basamagi bir alt ondaliga yuvarla”
+            // kisa ve uzun 2 farkli yoldan yapilabilir.
 
+        int i = 324;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            //1. YOL
+        if (i%10>=5){
+            System.out.println((i/10+1)*10);
+        } else {
+            System.out.println((i/10)*10);
+        }
+
+            //2. YOL
+        int kalan = i%10;
+        if (kalan<=4){
+            i=i-kalan;
+        } else if (kalan>=5) {
+            i=i+kalan;
+        }
+        System.out.println(i);
     }
 }
