@@ -2,7 +2,8 @@ package switch_exercises;
 import java.util.Scanner;
 public class HangiMevsim {
     public static void main(String[] args) {
-        // Kullanicidan yilin kacinci ayinda oldugu bilgisini al ve konsolda hangi mevsimde oldugu bilgisini veriniz.
+        // Kullanicidan yilin kacinci ayinda oldugu bilgisini rakam olarak al
+        // ve konsolda hangi mevsimde oldugu bilgisini veriniz.
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Yilin kacinci ayindayiz (1,...,12)");

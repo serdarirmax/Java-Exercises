@@ -1,13 +1,9 @@
 package switch_exercises;
-
 import java.util.Scanner;
-
 public class HesapMakinasi02 {
     // Kullanicidan 2 sayi aliniz ==> 6     2
     // yapmak istedigi işlem isaretini girmesini siteyiniz  ==> + - * /
     // islemi yaparak sonucu konsolda gosteren programi yaziniz.
-
-
     public static void main(String[] args) {
         Scanner scan =new Scanner(System.in);
 

@@ -1,7 +1,5 @@
 package switch_exercises;
-
 import java.util.Scanner;
-
 public class HesapMakinasi01 {
     /*
 	 Kullanicidan bir sayi iste.  Kullaniciya sececegi sembollerin menusunu goster ve birisini secmesini iste.
