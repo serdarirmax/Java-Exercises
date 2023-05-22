@@ -8,7 +8,7 @@ public class ArtikYil {
         Bir yıl 100'e tam bölünemiyorsa 4'e tam bölünmelidir.
          */
 
-        int year = 1800;
+        int year = 2008;
 
 
 
