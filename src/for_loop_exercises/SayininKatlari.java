@@ -1,6 +1,6 @@
 package for_loop_exercises;
 import java.util.Scanner;
-public class dsdsa {
+public class SayininKatlari {
     public static void main(String[] args) {
         /*   Kullanicidan sisteme bir sayi girmesini isteyiniz.
          1'den kullanicinin girdigi sayiya kadar yazdiriniz
