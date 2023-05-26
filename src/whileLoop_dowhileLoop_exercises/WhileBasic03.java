@@ -1,4 +1,4 @@
-package while_loop_exercises;
+package whileLoop_dowhileLoop_exercises;
 import java.util.Scanner;
 public class WhileBasic03 {
     public static void main(String[] args) {
